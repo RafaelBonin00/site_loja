@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Store</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style_finalizar_compra.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Borel&family=Josefin+Sans:wght@400;700&family=Roboto&display=swap');
+    </style>
+</head>
+<header class="cabecalho">
+    <div class="cabecalho_container">
+        <h1><a class= 'cabecalho_titulo' href="index.html">Store</a></h1>
+    </div>
+
+</header>
+<body class="class_body">
+    <div class="Formas_pagamento" id="Formas_pagamento">
+        <div>
+            <p>Forma de Pagamento</p>
+            <p id='valor_total'></p>
+            <div class="Formas_pagamento_itens">
+                <a id='credito'class="Formas_pagamento_link">Credito</a>
+                <a id='pix'class="Formas_pagamento_link">Pix</a>
+
+            </div>
+            <div id="1" style="display: none;">
+                <form id="form_credit">
+                    <p class="form_credit_itens">Forma de Pagamento: Credito</p><br>
+                    <input class="form_credit_itens" type="text" id="fnumber_card" name="fnumber_card" placeholder="Numero do Cartão"><br>
+                    <label class="form_credit_itens" for="fname">Nome do Titular do cartão:</label><br>
+                    <div>
+                        <input class="form_credit_itens" type="text" id="fname" name="fname" placeholder="Nome">
+                        <input class="form_credit_itens" type="text" id="fname" name="fname" placeholder="Sobrenome"><br>
+                    </div>
+                    <label class="form_credit_itens" for="cartaoVencimento">Data de Vencimento do Cartão:</label><br>
+                    <input class="form_credit_itens" type="text" id="mes" name="mes" placeholder="MM" size="2" maxlength="2"> / 
+                    <input class="form_credit_itens" type="text" id="ano" name="ano" placeholder="AA" size="2" maxlength="2"><br>
+                    <label class="form_credit_itens" for="cartaoVencimento">Código de segurança: </label>
+                    <input class="form_credit_itens" type="text" placeholder="3 dígitos" size="3" maxlength="3"><br>
+                    <label class="form_credit_itens" for="parcelas">Número de Parcelas:</label>
+                    <select class="form_credit_itens" id="parcelas" name="parcelas">
+                      <option value="1">1</option>
+                      <option value="2">2</option>
+                      <option value="3">3</option>
+                    </select><br>
+                    <input type="submit" value="Finalizar">
+                </form>
+            </div>
+            <div id="2" style="display: none;">
+                <form id="form_pix">
+                    <p>Forma de Pagamento: Pix</p><br>
+                    <img src="img/qrcode.png"><br>
+                    <input type="submit" value="Finalizar">
+                </form>
+            </div>
+        </div>
+            
+    </div>
+    <div class="Formas_pagamento" id="pagamento_finalizado" style="display: none;">
+        <h1>Transação Concluída com Sucesso!</h1>
+        <p>Muito obrigado pela sua compra!</p>
+        <p>Não perca a oportunidade de ficar por dentro das nossas últimas ofertas e promoções. <br>Conecte-se conosco nas nossas redes sociais.</p>
+    </div>
+</body>
+ 
+
+<script src="scripty_finalizar_compra.js"></script>
+</html>

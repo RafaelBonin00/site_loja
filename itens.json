@@ -1,0 +1,374 @@
+[
+{
+    "id": "1",
+    "img":"img/3_molentom_esd.jpg", 
+    "descricao":"Combo Moletons ESD", 
+    "preco":"320.00",
+    "desconto": "20",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "2",
+    "img":"img/3_molentom+esd+azul.jpg", 
+    "descricao":"Moletom Azul ESD", 
+    "preco":"120.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "3",
+    "img":"img/3_molentom+preto.jpg", 
+    "descricao":"Moletom Preto ESD", 
+    "preco":"120.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "4",
+    "img":"img/4_moletom.jpg", 
+    "descricao":"Combo 4 Moletons Nike", 
+    "preco":"420.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "5",
+    "img":"img/4_moletom_azul.jpg", 
+    "descricao":"Moletom Preto com Azul Nike", 
+    "preco":"120.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "6",
+    "img":"img/4_moleton_vermelho.jpg", 
+    "descricao":"Moletom Preto com Vermelho Nike", 
+    "preco":"120.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "7",
+    "img":"img/4_moletom_branco.jpg", 
+    "descricao":"Moletom Branco Nike", 
+    "preco":"120.00",
+    "desconto": "25",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "8",
+    "img":"img/4_moletom_zero.jpg", 
+    "descricao":"Moletom Branco Nike", 
+    "preco":"120.00",
+    "desconto": "10",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "9",
+    "img":"img/moletom_sorelead_amarelo_meio+a+meio_capuz.jpg", 
+    "descricao":"Moletom Amarelo e Preto Sorelead", 
+    "preco":"160.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "10",
+    "img":"img/moletom_sorelead_capuz.jpg", 
+    "descricao":"Moletom Branco Sorelead", 
+    "preco":"150.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "11",
+    "img":"img/moletom_sorelead_meio+a+meio_capuz.jpg", 
+    "descricao":"Moletom Preto e Branco Sorelead", 
+    "preco":"160.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "12",
+    "img":"img/moletom_sorelead_preto_capuz.jpg", 
+    "descricao":"Moletom Preto Sorelead", 
+    "preco":"160.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "13",
+    "img":"img/moletom_amarelo_capuz.jpg", 
+    "descricao":"Moletom Creme com capuz", 
+    "preco":"110.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "14",
+    "img":"img/moletom_azul_simples.jpg", 
+    "descricao":"Moletom Azul Simples", 
+    "preco":"110.00",
+    "desconto": "10",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "15",
+    "img":"img/moletom_branco_simples.jpg", 
+    "descricao":"Moletom Branco Simples", 
+    "preco":"110.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "16",
+    "img":"img/moletom_branco+manga+azul_simples.jpg", 
+    "descricao":"Moletom Branco com manga Azul", 
+    "preco":"120.00",
+    "desconto": "15",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "17",
+    "img":"img/moletom_creme_simples.jpg", 
+    "descricao":"Moletom Creme Simples", 
+    "preco":"110.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+
+{
+    "id": "18",
+    "img":"img/moletom_preto_simples.jpg", 
+    "descricao":"Moletom Preto Simples", 
+    "preco":"110.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+{
+    "id": "19",
+    "img":"img/moletom_nike_preto.jpg", 
+    "descricao":"Moletom Nike Preto Simples", 
+    "preco":"110.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+{
+    "id": "20",
+    "img":"img/moletom_nike_branco.jpg", 
+    "descricao":"Moletom Nike Branco Simples", 
+    "preco":"110.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+{
+    "id": "21",
+    "img":"img/moletom_tideallguild_capuz.jpg", 
+    "descricao":"Moletom Tideallguild", 
+    "preco":"110.00",
+    "desconto": "00",
+    "classificacao":"moletom"
+},
+{
+    "id": "22",
+    "img":"img/camiseta_preta_estampa.jpg", 
+    "descricao":"Camiseta Preta com Estampa", 
+    "preco":"75.00",
+    "desconto": "05",
+    "classificacao":"camisa"
+},
+{
+    "id": "23",
+    "img":"img/camiseta_rosa_estampa.jpg", 
+    "descricao":"Camiseta Rosa com Estampa", 
+    "preco":"70.00",
+    "desconto": "00",
+    "classificacao":"camisa"
+},
+{
+    "id": "24",
+    "img":"img/camiseta_verde_estampa.jpg", 
+    "descricao":"Camiseta Verde com Estampa", 
+    "preco":"70.00",
+    "desconto": "00",
+    "classificacao":"camisa"
+},
+{
+    "id": "25",
+    "img":"img/camiseta_preta_colorida_estampa.jpg", 
+    "descricao":"Camiseta com Estampa colorida", 
+    "preco":"70.00",
+    "desconto": "00",
+    "classificacao":"camisa"
+},
+{
+    "id": "26",
+    "img":"img/camiseta_preta_estampa_2.jpg", 
+    "descricao":"Camiseta Preta com Estampa", 
+    "preco":"70.00",
+    "desconto": "00",
+    "classificacao":"camisa"
+},
+{
+    "id": "27",
+    "img":"img/camiseta_preta_estampa_3.jpg", 
+    "descricao":"Camiseta Preta com Estampa", 
+    "preco":"70.00",
+    "desconto": "00",
+    "classificacao":"camisa"
+},
+{
+    "id": "28",
+    "img":"img/camiseta_azul_claro_simples.jpg", 
+    "descricao":"Camiseta Azul Claro", 
+    "preco":"55.00",
+    "desconto": "10",
+    "classificacao":"camisa"
+},
+{
+    "id": "29",
+    "img":"img/camiseta_laranja_simples.jpg", 
+    "descricao":"Camiseta Laranja", 
+    "preco":"55.00",
+    "desconto": "00",
+    "classificacao":"camisa"
+},
+{
+    "id": "30",
+    "img":"img/camiseta_preta_simples.jpg", 
+    "descricao":"Camiseta Preta", 
+    "preco":"60.00",
+    "desconto": "00",
+    "classificacao":"camisa"
+},
+{
+    "id": "31",
+    "img":"img/camiseta_vermelha_simples.jpg", 
+    "descricao":"Camiseta Vermelha", 
+    "preco":"55.00",
+    "desconto": "00",
+    "classificacao":"camisa"
+},
+{
+    "id": "32",
+    "img":"img/bone_laranja.jpg", 
+    "descricao":"Boné Laranja", 
+    "preco":"90.00",
+    "desconto": "00",
+    "classificacao":"bone"
+},
+{
+    "id": "33",
+    "img":"img/bone_preto.jpg", 
+    "descricao":"Boné preto", 
+    "preco":"90.00",
+    "desconto": "00",
+    "classificacao":"bone"
+},
+{
+    "id": "34",
+    "img":"img/bone_vermelho.jpg", 
+    "descricao":"Boné vermelho", 
+    "preco":"90.00",
+    "desconto": "5",
+    "classificacao":"bone"
+},
+{
+    "id": "35",
+    "img":"img/bone_creme_new_york.jpg", 
+    "descricao":"Boné New York", 
+    "preco":"95.00",
+    "desconto": "00",
+    "classificacao":"bone"
+},
+{
+    "id": "36",
+    "img":"img/bone_azul_new_york.jpg", 
+    "descricao":"Boné Azul New York", 
+    "preco":"95.00",
+    "desconto": "00",
+    "classificacao":"bone"
+},
+{
+    "id": "37",
+    "img":"img/bone_azul_escuro.jpg", 
+    "descricao":"Boné Azul", 
+    "preco":"100.00",
+    "desconto": "00",
+    "classificacao":"bone"
+},
+{
+    "id": "38",
+    "img":"img/tenis_adidas_branco.jpg", 
+    "descricao":"Tênis Adidas Branco", 
+    "preco":"190.00",
+    "desconto": "00",
+    "classificacao":"tenis"
+},
+{
+    "id": "39",
+    "img":"img/tenis_adidas_preto.jpg", 
+    "descricao":"Tênis Adidas Preto", 
+    "preco":"195.00",
+    "desconto": "00",
+    "classificacao":"tenis"
+},
+{
+    "id": "40",
+    "img":"img/tenis_hocks_branco.jpg", 
+    "descricao":"Tênis Hocks Branco", 
+    "preco":"210.00",
+    "desconto": "20",
+    "classificacao":"tenis"
+},
+{
+    "id": "41",
+    "img":"img/tenis_hocks_branco_azul.jpg", 
+    "descricao":"Tênis Hocks Branco com Azul", 
+    "preco":"210.00",
+    "desconto": "00",
+    "classificacao":"tenis"
+},
+{
+    "id": "42",
+    "img":"img/tenis_hocks_preto.jpg", 
+    "descricao":"Tênis Hocks Preto", 
+    "preco":"215.00",
+    "desconto": "00",
+    "classificacao":"tenis"
+},
+{
+    "id": "43",
+    "img":"img/tenis_ous_preto.jpg", 
+    "descricao":"Tênis Ous Preto", 
+    "preco":"225.00",
+    "desconto": "00",
+    "classificacao":"tenis"
+},
+{
+    "id": "44",
+    "img":"img/tenis_ous_branco.jpg", 
+    "descricao":"Tênis Ous Branco", 
+    "preco":"230.00",
+    "desconto": "00",
+    "classificacao":"tenis"
+}
+
+
+
+]

@@ -1,0 +1,20 @@
+.Formas_pagamento{
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+    margin: 2% 5%;
+    padding: 5% 0;
+}
+.Formas_pagamento_itens{
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+}
+.pagamento_credit{
+    padding: 2% 0;
+}
+.form_credit_itens{
+    margin: 1% 0;
+}
